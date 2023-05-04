@@ -1,7 +1,7 @@
 # Adaptively-Optimizing-Subnetworks-While-Finetuning-Pretrained-LMs
 This Repository Contains Codebase for Optimization in Machine Learning Project.
 
-Dependencies:
+## Dependencies:
 
 python version: 3.8.10
 
@@ -9,6 +9,7 @@ transformers = 1.25.4
 
 
 ## instruction to run the code:
+1. clone the DPS repo in the DPS folder from "https://github.com/ZhangHaojie077/DPS.git"
 
 For Baseline:
 
